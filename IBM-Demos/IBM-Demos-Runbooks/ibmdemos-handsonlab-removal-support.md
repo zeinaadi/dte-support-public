@@ -13,7 +13,7 @@ A: IBM Demos is going through a transfer of ownership, all Hands on labs hosted 
 Q: I needed a hands-on lab that was removed from IBM Demos? 
 
 Response if the questions came from an IBMer:
-Please contact Brooke Jones (brooke.jones@ibm.com) on the DTE team with the name of the hands-on lab and the URL if you have it. If you do not have this information please provide more information on what product the asset was related to, as this will help narrow the search. If content needs to be migrated, keep in mind the following: 
+Please contact Brooke Jones (brooke.jones@ibm.com) on the ITZ team with the name of the hands-on lab and the URL if you have it. If you do not have this information please provide more information on what product the asset was related to, as this will help narrow the search. If content needs to be migrated, keep in mind the following: 
 
 * Content migrated to assetrepo.ibm.com is only IBMer and BP accessible. Customer will not have access. 
 
