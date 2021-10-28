@@ -1,4 +1,4 @@
-# IAM fix
+# Users Don't See Cluster After Invite (IAM fix)
 
 Sometimes users can not see their clusters in IBM Cloud web dashboard. Run the following commands:
 
