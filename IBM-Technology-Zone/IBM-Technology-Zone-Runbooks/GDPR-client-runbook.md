@@ -10,10 +10,6 @@ The optional opt-in options are as followed:
 
 - Participate in notifications
 
-- Participate in content metrics and feedback
-
-- Participate in leaderboards
-
 Select the helper text icon for more information on each of these options.
 
 ![helper text icon](Images/helper-button-customer.png)
