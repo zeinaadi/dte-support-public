@@ -31,7 +31,7 @@
 
 [How to for Instructors](IBM-Technology-Zone-Runbooks/How%20to%20for%20Instructors.md)  :white_check_mark: 
 
-[How to Schedule a Workshop](IBM-Technology-Zone-Runbooks/How-to-schedule-a-skytap-workshop.md)  :white_check_mark: 
+[How to Schedule a Skytap Workshop](IBM-Technology-Zone-Runbooks/How-to-schedule-a-skytap-workshop.md)  :white_check_mark: 
 
 [How to Save a Workshop](IBM-Technology-Zone-Runbooks/how-to-save-a-workshop.md)  :white_check_mark: 
 
